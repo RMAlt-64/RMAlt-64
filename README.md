@@ -2,7 +2,7 @@
 
 ### Desarrollador Full Stack Junior | Técnico Universitario en Desarrollo Web
 
-Soy un apasionado de la tecnología con una base sólida en desarrollo web (UNER) y experiencia técnica previa en electromecánica. Me enfoco en construir aplicaciones robustas y escalables, cuidando tanto el backend como la experiencia del usuario en el frontend.
+Soy un apasionado de la tecnología con una base sólida en desarrollo web (UNER). Me enfoco en construir aplicaciones robustas y escalables, cuidando tanto el backend como la experiencia del usuario en el frontend.
 
 ---
 

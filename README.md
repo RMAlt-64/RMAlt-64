@@ -39,7 +39,7 @@ Soy un apasionado de la tecnología con una base sólida en desarrollo web (UNER
 ### 📊 Estadísticas de GitHub
 
 ![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RMAlt-64&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=typescript)
+![Lenguajes más usados](https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=typescript)
 
 ---
 

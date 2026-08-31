@@ -23,6 +23,7 @@ Soy un apasionado de la tecnología con una base sólida en desarrollo web (UNER
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Backend & DB**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -38,15 +39,29 @@ Soy un apasionado de la tecnología con una base sólida en desarrollo web (UNER
 
 ### 📊 Estadísticas de GitHub
 
-![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RMAlt-64&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=typescript)
+<!-- Estas imágenes funcionan con la API pública de GitHub. Asegúrate de que tu usuario esté bien escrito -->
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RMAlt-64&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=RMAlt-64&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 🏆 Proyectos Destacados
+
+| Proyecto | Tecnologías | Descripción |
+|----------|-------------|-------------|
+| [**KioskoFlow**](https://github.com/RMAlt-64/KioskoFlow-backend) | Node.js, TypeScript, Sequelize | API REST para gestión de inventario de kiosco. |
+| [**PWA Registro**](https://github.com/RMAlt-64/pwa-registro-frontend) | Vue.js, PWA | Aplicación progresiva para registro de personal. |
+| [**Browser Extensions Manager**](https://github.com/RMAlt-64/Browser-extensions-manager) | JavaScript | Herramienta para gestionar extensiones del navegador. |
 
 ---
 
 ### 📫 Contacto
 
-- **LinkedIn:** https://www.linkedin.com/in/ruben-m-almiron/
-- **Email:** ruben.manuel.almiron@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/ruben-m-almiron](https://www.linkedin.com/in/ruben-m-almiron/)
+- 📧 **Email:** ruben.manuel.almiron@gmail.com
+- 🌐 **Portfolio:** *Próximamente...*
 
 ---
-"Always look on the bright side of life." 🎸
+
+> *"Always look on the bright side of life."* 🎸

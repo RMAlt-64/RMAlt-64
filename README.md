@@ -39,11 +39,16 @@ Soy un apasionado de la tecnología con una base sólida en desarrollo web (UNER
 
 ### 📊 Estadísticas de GitHub
 
-<!-- Estas imágenes usan un servicio más estable -->
-![Estadísticas de GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RMAlt-64&theme=github_dark)
+<!-- Tarjetas dinámicas (estables) -->
+![Perfil GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RMAlt-64&theme=github_dark)
 
-![Lenguajes más usados](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RMAlt-64&theme=github_dark)
+<!-- Lenguajes más usados -->
+![Lenguajes](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RMAlt-64&theme=github_dark)
 
+<!-- Badges estáticos de respaldo (siempre visibles) -->
+![Commits](https://img.shields.io/badge/Commits-108-blue?style=flat-square&logo=github)
+![Repositorios](https://img.shields.io/badge/Repositorios-6-green?style=flat-square&logo=github)
+![Lenguaje Principal](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
 ---
 
 ### 🏆 Proyectos Destacados

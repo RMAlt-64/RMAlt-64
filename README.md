@@ -39,10 +39,10 @@ Soy un apasionado de la tecnología con una base sólida en desarrollo web (UNER
 
 ### 📊 Estadísticas de GitHub
 
-<!-- Estas imágenes funcionan con la API pública de GitHub. Asegúrate de que tu usuario esté bien escrito -->
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RMAlt-64&show_icons=true&theme=tokyonight&hide_border=true)
+<!-- Estas imágenes usan un servicio más estable -->
+![Estadísticas de GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RMAlt-64&theme=github_dark)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=RMAlt-64&layout=compact&theme=tokyonight&hide_border=true)
+![Lenguajes más usados](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RMAlt-64&theme=github_dark)
 
 ---
 
